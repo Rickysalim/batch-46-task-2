@@ -1,0 +1,25 @@
+body {
+    background-color: #e8e4ec !important;
+}
+
+.icon-props {
+    margin-top: -0.3rem;
+}
+
+.icon-social-props {
+    width: 50px;
+    height: 50px;
+}
+
+.icon-tech-logo {
+    width: 20px;
+    height: 20px;
+}
+ 
+nav {
+    padding: 20px !important;
+}
+ 
+.card-home {
+    background-color: #f1f1f1;
+}
